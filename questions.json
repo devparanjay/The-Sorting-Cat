@@ -1,0 +1,14 @@
+{
+    "1": {
+        "Question": "What is your Paladins in-game name?",
+        "Type": "text"
+    },
+    "2": {
+        "Question": "What is your primary Champion Class?",
+        "Type": "multiple"
+    },
+    "3": {
+        "Question": "What is your time-zone?",
+        "Type": "time"
+    }
+}
