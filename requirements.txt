@@ -1,2 +1,1 @@
-discord.py
-json
+discord.py==1.0.5
